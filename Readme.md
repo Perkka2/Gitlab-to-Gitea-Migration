@@ -2,7 +2,7 @@
 
 It will copy issues, pull-requests, milestones, wiki, labels and releases.
 
-# Edit the script and add the needed info
+## Edit the script and add the needed info
 
 GITLAB_USERNAME=gitlabuser
 GITLAB_PASSWORD=password
